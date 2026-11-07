@@ -11,7 +11,7 @@
 
 | 平台 | 工具链 | 标准参数 | 完整文件名 | SHA-256 |
 | --- | --- | --- | --- | --- |
-
+| `linux-x86_64` | `gcc11-glibc2.35` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `86a81d3954dad7a1d4be151355f5f096a2ceeef4c4344abca97156900aea0d05` |
 <!-- tivs-downloads:end -->
 
 按目标平台和工具链选择一行下载。下载后先核对 SHA-256，再解压并阅读包内
