@@ -1,19 +1,22 @@
-# TIVS Device SDK
+# TIVS Device SDK 公开下载仓
 
-TIVS 设备端 SDK 的公开下载仓。SDK 包及校验文件位于 [Releases](../../releases)；
-每个包自带接入 README、完整源码基线和文件清单。
+这里提供 TIVS Device SDK 的正式安装包。本仓只用于下载，不提供 SDK 源码。
 
-## v1.375.4
+[全部版本](../../releases) · [版本变化](CHANGELOG.md) · [包名与校验](FORMAT.md)
 
-**状态：预发布**
+## 当前正式版本
 
-### 首次归档
+<!-- tivs-downloads:start -->
+尚未发布正式包。
+<!-- tivs-downloads:end -->
 
-- 首次在本仓归档可复核的 TIVS Device SDK；未收录此前历史。
-- 提供公共头文件、平台静态库和上游现有 Demo，包内说明给出各平台工具链与链接步骤。
-- 当前证据限于编译和最终链接；真机、联网与完整业务功能仍需产品验证。
+按目标平台和工具链选择一行下载。下载后先核对 SHA-256，再解压并阅读包内
+`README.md`；它给出该平台的工具链、头文件、静态库、链接参数和 Demo 步骤。
 
-<details><summary>当前构建基线</summary>
+GitHub 页面自动生成的 **Source code (zip)** 和 **Source code (tar.gz)** 只是本下载仓
+的文档快照，不是 SDK。
+
+<details><summary>当前版本基线</summary>
 
 <!-- tivs-build-baseline:start -->
 ```json
