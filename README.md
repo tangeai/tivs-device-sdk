@@ -21,9 +21,9 @@ GitHub 页面自动生成的 **Source code (zip)** 和 **Source code (tar.gz)** 
 <!-- tivs-build-baseline:start -->
 ```json
 {
-  "release_tag": "v1.375.4-ci.15a27412dcde",
+  "release_tag": "v1.375.4",
   "schema": 1,
-  "sdk_commit": "15a27412dcde0cf630444ded5b618d2861c227a8",
+  "sdk_commit": "29d80bb32d5ab484dbfed5844b16073bb1cedc0d",
   "tgsysadpt_commit": "247fecc0ba8501c14877ea5ddc1b5814036333ea",
   "tgwebrtc_commit": "64b74c0a3be692f03bd42ded3a6ebbcb1162ce24"
 }
