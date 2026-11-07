@@ -7,7 +7,11 @@
 ## 当前正式版本
 
 <!-- tivs-downloads:start -->
-尚未发布正式包。
+**v1.375.4**
+
+| 平台 | 工具链 | 标准参数 | SDK 包 | SHA-256 |
+| --- | --- | --- | --- | --- |
+| `linux-x86_64` | `gcc11-glibc2.35` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [下载](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `0d87c818338ce006ccbc06f2e1a0d8cf9e4b6bd3ac0cd43bdd0cc46b61a2c149` |
 <!-- tivs-downloads:end -->
 
 按目标平台和工具链选择一行下载。下载后先核对 SHA-256，再解压并阅读包内
