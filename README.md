@@ -11,6 +11,7 @@
 
 | 平台 | 工具链 | 标准参数 | SDK 包 | SHA-256 |
 | --- | --- | --- | --- | --- |
+| `goke-gk7205v500` | `arm-gcc7.3-linux-musleabi` | `p2p-kcp-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [下载](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__goke-gk7205v500__arm-gcc7.3-linux-musleabi__v1.375.4__p2p-kcp-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `ea19d7a0de509d66b6f9daecf5908f4acff52d89011e359a7212906f077b5cab` |
 | `linux-x86_64` | `gcc11-glibc2.35` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [下载](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `0d87c818338ce006ccbc06f2e1a0d8cf9e4b6bd3ac0cd43bdd0cc46b61a2c149` |
 <!-- tivs-downloads:end -->
 
