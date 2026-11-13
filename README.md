@@ -9,14 +9,14 @@
 <!-- tivs-downloads:start -->
 **v1.375.4**
 
-| 平台 | 工具链 | 标准参数 | 完整文件名 | SHA-256 |
+| 平台 | 工具链 | 有效参数 | 完整文件名 | SHA-256 |
 | --- | --- | --- | --- | --- |
 | `fullhan-fh8626` | `arm-fullhanv3-linux-uclibcgnueabi-b5` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__fullhan-fh8626__arm-fullhanv3-linux-uclibcgnueabi-b5__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__fullhan-fh8626__arm-fullhanv3-linux-uclibcgnueabi-b5__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `c7f9f1f0e5848a12e965849a425916bcec03a5ec8866a9eb2cb54baa912796dd` |
 | `goke-gk7205v500` | `arm-gcc7.3-linux-musleabi` | `p2p-kcp-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__goke-gk7205v500__arm-gcc7.3-linux-musleabi__v1.375.4__p2p-kcp-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__goke-gk7205v500__arm-gcc7.3-linux-musleabi__v1.375.4__p2p-kcp-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `26abe9398c32538a0cc460354eb934484298b7ee38b365c89dcf815cc8fdd361` |
 | `linux-x86_64` | `gcc11-glibc2.35` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.4/tivs-device-sdk__linux-x86_64__gcc11-glibc2.35__v1.375.4__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `86a81d3954dad7a1d4be151355f5f096a2ceeef4c4344abca97156900aea0d05` |
 <!-- tivs-downloads:end -->
 
-按目标平台和工具链选择一行下载。下载后先核对 SHA-256，再解压并阅读包内
+按目标平台、工具链和所需功能参数选择一行下载。同一平台可能提供不同参数组合；包名和 build-info.json 记录完整有效值。下载后先核对 SHA-256，再解压并阅读包内
 `README.md`；它给出该平台的工具链、头文件、静态库、链接参数和 Demo 步骤。
 
 GitHub 页面自动生成的 **Source code (zip)** 和 **Source code (tar.gz)** 只是本下载仓
