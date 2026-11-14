@@ -11,6 +11,7 @@
 
 | 平台 | 工具链 | 有效参数 | 完整文件名 | SHA-256 |
 | --- | --- | --- | --- | --- |
+| `augentix-hc1703` | `arm-augentix-linux-uclibcgnueabihf` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__augentix-hc1703__arm-augentix-linux-uclibcgnueabihf__v1.375.6__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.6/tivs-device-sdk__augentix-hc1703__arm-augentix-linux-uclibcgnueabihf__v1.375.6__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `ad074cf0088dba13beac3c4284443a968dda9935c9a7e7cb9a4690272b6699dc` |
 | `novatek-nt96562` | `arm-ca9-linux-uclibcgnueabihf-6.5` | `p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n` | [`tivs-device-sdk__novatek-nt96562__arm-ca9-linux-uclibcgnueabihf-6.5__v1.375.6__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz`](https://github.com/tangeai/tivs-device-sdk/releases/download/v1.375.6/tivs-device-sdk__novatek-nt96562__arm-ca9-linux-uclibcgnueabihf-6.5__v1.375.6__p2p-webrtc2-cs-sliced-szopt-0-vdp-n-ext-n-nobs-n-noqrcode-n.tgz) | `f7ccd02c154289597d9d2d67395bafb30c349e1b5b7c6326509c9a9bfcefb41d` |
 <!-- tivs-downloads:end -->
 
