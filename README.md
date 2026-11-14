@@ -27,11 +27,11 @@ GitHub 页面自动生成的 **Source code (zip)** 和 **Source code (tar.gz)** 
 <!-- tivs-build-baseline:start -->
 ```json
 {
-  "release_tag": "v1.375.4",
+  "release_tag": "v1.375.6",
   "schema": 1,
-  "sdk_commit": "29d80bb32d5ab484dbfed5844b16073bb1cedc0d",
+  "sdk_commit": "296b088a9e16943b96b441bf9c092fd6375f0df6",
   "tgsysadpt_commit": "247fecc0ba8501c14877ea5ddc1b5814036333ea",
-  "tgwebrtc_commit": "64b74c0a3be692f03bd42ded3a6ebbcb1162ce24"
+  "tgwebrtc_commit": "5b43be027a43796807567e9a9ee71e8848358323"
 }
 ```
 <!-- tivs-build-baseline:end -->
