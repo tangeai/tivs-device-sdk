@@ -1,6 +1,6 @@
 # TIVS Device SDK 包格式
 
-<!-- tivs-managed-docs:68c79c3372e9066fb510a4ef22fa2730bde20422c4ec554cf16a445f190f5544 -->
+<!-- tivs-managed-docs:3f200d612c8e273d9feafbff54e79fd73280bb5966ecb9cbca4f97722ab7f40b -->
 
 ## 包名
 
